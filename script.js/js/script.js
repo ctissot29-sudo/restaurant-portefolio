@@ -1,4 +1,5 @@
-```javascript
+console.log("JS chargé");
+
 // ================================
 // ANIMATION AU SCROLL
 // ================================
